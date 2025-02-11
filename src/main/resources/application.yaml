@@ -21,7 +21,7 @@ spring:
 
 logging:
   level:
-    com.ead: DEBUG
-    root: DEBUG
+    com.ead: INFO
+    root: INFO
     org.springframework: INFO
     org.hibernate: INFO
